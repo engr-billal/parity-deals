@@ -93,38 +93,38 @@ export default function HomePage() {
             <FooterLinkGroup
               title="Help"
               links={[
-                { label: "PPP Discounts", href: "#" },
-                { label: "Discount API", href: "#" },
+                { label: "PPP Discounts", href: "#1" },
+                { label: "Discount API", href: "#2" },
               ]}
             />
             <FooterLinkGroup
               title="Solutions"
               links={[
-                { label: "Newsletter", href: "#" },
-                { label: "SaaS Business", href: "#" },
-                { label: "Online Courses", href: "#" },
+                { label: "Newsletter", href: "#3" },
+                { label: "SaaS Business", href: "#4" },
+                { label: "Online Courses", href: "#5" },
               ]}
             />
           </div>
           <div className="flex flex-col gap-8">
             <FooterLinkGroup
               title="Features"
-              links={[{ label: "PPP Discounts", href: "#" }]}
+              links={[{ label: "PPP Discounts", href: "#6" }]}
             />
             <FooterLinkGroup
               title="Tools"
               links={[
-                { label: "Salary Converter", href: "#" },
-                { label: "Coupon Generator", href: "#" },
-                { label: "Stripe App", href: "#" },
+                { label: "Salary Converter", href: "#7" },
+                { label: "Coupon Generator", href: "#8" },
+                { label: "Stripe App", href: "#9" },
               ]}
             />
             <FooterLinkGroup
               title="Company"
               links={[
-                { label: "Affiliate", href: "#" },
-                { label: "Twitter", href: "#" },
-                { label: "Terms of Service", href: "#" },
+                { label: "Affiliate", href: "#10" },
+                { label: "Twitter", href: "#11" },
+                { label: "Terms of Service", href: "#12" },
               ]}
             />
           </div>
@@ -132,22 +132,22 @@ export default function HomePage() {
             <FooterLinkGroup
               title="Integrations"
               links={[
-                { label: "Lemon Squeezy", href: "#" },
-                { label: "Gumroad", href: "#" },
-                { label: "Stripe", href: "#" },
-                { label: "Chargebee", href: "#" },
-                { label: "Paddle", href: "#" },
+                { label: "Lemon Squeezy", href: "#13" },
+                { label: "Gumroad", href: "#14" },
+                { label: "Stripe", href: "#15" },
+                { label: "Chargebee", href: "#16" },
+                { label: "Paddle", href: "#17" },
               ]}
             />
             <FooterLinkGroup
               title="Tutorials"
               links={[
-                { label: "Any Website", href: "#" },
-                { label: "Lemon Squeezy", href: "#" },
-                { label: "Gumroad", href: "#" },
-                { label: "Stripe", href: "#" },
-                { label: "Chargebee", href: "#" },
-                { label: "Paddle", href: "#" },
+                { label: "Any Website", href: "#18" },
+                { label: "Lemon Squeezy", href: "#19" },
+                { label: "Gumroad", href: "#20" },
+                { label: "Stripe", href: "#21" },
+                { label: "Chargebee", href: "#22" },
+                { label: "Paddle", href: "#23" },
               ]}
             />
           </div>
